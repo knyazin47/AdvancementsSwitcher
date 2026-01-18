@@ -1,0 +1,9 @@
+name: AdvancementsSwitcher
+version: 1.0
+main: ru.knyazin.advancementsswitcher.AdvancementsSwitcher
+api-version: 1.21
+author: knyazin
+commands:
+  adv:
+    description: Control advancement visibility
+    usage: /adv <on/off> <full/only>
